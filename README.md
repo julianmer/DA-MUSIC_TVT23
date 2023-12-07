@@ -1,6 +1,6 @@
 # DA-MUSIC: DATA-DRIVEN DOA ESTIMATION VIA DEEP AUGMENTED MUSIC ALGORITHM
 
-[DA-MUSIC: Data-Driven DoA Estimation via Deep Augmented MUSIC](https://arxiv.org/abs/2109.10581)
+[DA-MUSIC: Data-Driven DoA Estimation via Deep Augmented MUSIC](https://ieeexplore.ieee.org/abstract/document/10266765)
 
 ## Abstract
 
